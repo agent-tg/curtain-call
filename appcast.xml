@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Curtain Call</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 30 Sep 2026 18:59:36 -0500</pubDate>
+            <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Curtain Call records screen and camera videos on macOS 14 or later.
+
+- Record unscripted walkthroughs in Freestyle or use Studio with a script.
+- Studio’s No script option now keeps a separate video title and leaves script settings inactive.
+- Studio and Freestyle use the same selected microphone input and recording gain. This fixes quiet Freestyle audio with multi-input interfaces such as the Scarlett.
+- Use Check level and speak normally for five seconds to set a fixed recording gain.
+
+Download the ZIP, unzip it, and move Curtain Call to Applications. On first use, allow the camera, microphone and screen-recording access you need.
+
+This release supports Apple Silicon and Intel Macs and includes automatic update checks. Recordings stay local; Google Drive sign-in is not included in this release.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/curtain-call/releases/download/v1.0/Curtain-Call-1.0-build-2.zip" length="4231503" type="application/octet-stream" sparkle:edSignature="Sp9TtiLi/r2TKqEcm/kdbQuYeTdlukS+HDx5N+C1hQ1ZQJuuFGbGv82ZffvN6TkZsNUbAEV1KZrrnPBvy0DBBg=="/>
+        </item>
+    </channel>
+</rss>
