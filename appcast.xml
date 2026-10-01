@@ -3,6 +3,21 @@
     <channel>
         <title>Curtain Call</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 01 Oct 2026 13:48:31 -0500</pubDate>
+            <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Curtain Call is now **Freestyle Studio**.
+
+The new name appears in the app, menus, windows, and download. Your existing recordings, scripts, preferences, and workspaces stay in place.
+
+Existing installations continue to receive updates through the same update feed.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/curtain-call/releases/download/v1.2/Freestyle-Studio-1.2-build-4.zip" length="4241646" type="application/octet-stream" sparkle:edSignature="cOmnWDauaSz6/hOKp+bk16lQwvdBy2Dktu+NVCXuFBy97VhvbhLNR/huTuKjKZtE1v84Zy5sEHQENo4JJzPcDQ=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Wed, 30 Sep 2026 21:45:32 -0500</pubDate>
             <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
