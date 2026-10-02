@@ -3,6 +3,20 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Fri, 02 Oct 2026 00:14:41 -0500</pubDate>
+            <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Freestyle Studio 1.3.1
+
+- Fixed blurry landscape overlay decks on non-Retina displays. Decks now render at full 1920 × 1080 resolution.
+- Preserved full-resolution Shorts and Stacked decks and synchronized card/prompter navigation.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/curtain-call/releases/download/v1.3.1/Freestyle-Studio-1.3.1-build-6.zip" length="4408258" type="application/octet-stream" sparkle:edSignature="1vt1DQ/6hvc0axcndZbriZB8E3GK0m6f/p49NrrH97N7rtjHDvQj37SG/K3AyRXMys7BSFwNDbsXlazT3dV/AQ=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Thu, 01 Oct 2026 19:35:11 -0500</pubDate>
             <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
