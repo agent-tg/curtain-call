@@ -3,6 +3,24 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Thu, 01 Oct 2026 19:35:11 -0500</pubDate>
+            <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Freestyle Studio 1.3
+
+- Preview your Shorts with YouTube, Instagram Reels, or TikTok controls while filming. Choose the platform before recording; show or hide the overlay while filming.
+- The preview has breathing room above and below, with app navigation below the recorded frame.
+- Choose **Edit profile…** to save a handle, display name, and profile photo or logo for each platform. Profiles stay on your Mac.
+- App overlays and profile details are preview-only and do not appear in saved video.
+
+Platform layouts are representative and may vary by phone and app version. This release adds local preview profiles; it does not connect social accounts.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/curtain-call/releases/download/v1.3/Freestyle-Studio-1.3-build-5.zip" length="4403132" type="application/octet-stream" sparkle:edSignature="WUcpZwBoa+FJivKXNo6WSbmBgjbOAUsgtoaIe91HeQOLXuaSxuZCpS3AQZ22wE5LnhwIIF+78ut/WmDof83/DA=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Thu, 01 Oct 2026 13:48:31 -0500</pubDate>
             <link>https://github.com/agent-tg/curtain-call/releases/latest</link>
